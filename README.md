@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Thommy from TrucksLOG.de
+- 👋 Hi, I’m Thommy, Founder and Creator of TrucksLOG.de
 - 👀 I’m interested in C#, PHP, MySQL etc
 - 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking for collaborater in C# for TrucksLOG
+- 💞️ I’m looking for collaborater in C# for TrucksLOG and Mobile-App Developer
 - 📫 How to reach me https://discord.gg/VQtPGS9H5B
